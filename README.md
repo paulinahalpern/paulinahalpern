@@ -8,6 +8,10 @@ I'm Paulina Halpern, a Melbourne-based real estate professional learning to code
 
 https://www.linkedin.com/in/paulina-halpern-091159211/
 
+Portfolio Website:
+
+https://portfolio-website-iota-virid.vercel.app/
+
 
 ✅ Deployed Projects:
 
